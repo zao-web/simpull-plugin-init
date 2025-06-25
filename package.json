@@ -1,0 +1,13 @@
+{
+    "name": "simpull-plugin-init",
+    "version": "0.1.0",
+    "description": "CLI tool to scaffold Simpull WordPress plugins",
+    "bin": {
+      "simpull-plugin-init": "./simpull-plugin-init.js"
+    },
+    "author": "Simpull",
+    "license": "MIT",
+    "engines": {
+      "node": ">=16"
+    }
+  }
