@@ -67,7 +67,7 @@ const composer = {
     "php": "^8.1"
   },
   autoload: {
-    psr-4: {
+    "psr-4": {
       "Simpull\\": "src/"
     }
   }
