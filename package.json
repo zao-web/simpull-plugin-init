@@ -6,5 +6,8 @@
     "license": "MIT",
     "engines": {
       "node": ">=16"
+    },
+    "bin": {
+        "simpull-plugin-init": "./index.js"
     }
   }
